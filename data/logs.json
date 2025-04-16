@@ -1,0 +1,5 @@
+[
+    {"user": "alice", "action": "login", "timestamp": "2025-04-10T08:00:00Z"},
+    {"user": "bob", "action": "view", "timestamp": "2025-04-10T08:05:00Z"},
+    {"user": "alice", "action": "logout", "timestamp": "2025-04-10T08:10:00Z"}
+  ]
